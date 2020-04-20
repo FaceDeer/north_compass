@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-13 16:25-0700\n"
+"PO-Revision-Date: 2020-04-20 12:59+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: Hamlet <hamlatgitlab@riseup.net>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+#: init.lua:31
+msgid "North"
+msgstr "Nord"
+
+#: init.lua:32
+msgid "North-northwest"
+msgstr "Nord-NordOvest"
+
+#: init.lua:33
+msgid "Northwest"
+msgstr "NordOvest"
+
+#: init.lua:34
+msgid "West-northwest"
+msgstr "Ovest-NordOvest"
+
+#: init.lua:35
+msgid "West"
+msgstr "Ovest"
+
+#: init.lua:36
+msgid "West-southwest"
+msgstr "Ovest-SudOvest"
+
+#: init.lua:37
+msgid "Southwest"
+msgstr "SudOvest"
+
+#: init.lua:38
+msgid "South-southwest"
+msgstr "Sud-SudOvest"
+
+#: init.lua:39
+msgid "South"
+msgstr "Sud"
+
+#: init.lua:40
+msgid "South-southeast"
+msgstr "Sud-SudEst"
+
+#: init.lua:41
+msgid "Southeast"
+msgstr "SudEst"
+
+#: init.lua:42
+msgid "East-southeast"
+msgstr "Est-SudEst"
+
+#: init.lua:43
+msgid "East"
+msgstr "Est"
+
+#: init.lua:44
+msgid "East-northeast"
+msgstr "Est-NordEst"
+
+#: init.lua:45
+msgid "Northeast"
+msgstr "NordEst"
+
+#: init.lua:46
+msgid "North-northeast"
+msgstr "Nord-NordEst"
+
+#: init.lua:57
+msgid "Compass Facing @1"
+msgstr "La bussola indica @1"
